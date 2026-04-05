@@ -1,0 +1,13 @@
+# office-kit configuration
+
+target:
+ path: "C:/Program Files/Target"
+ version: "latest"
+
+update:
+ backup: true
+ verify: true
+
+tool:
+ method: auto
+ offline: false
